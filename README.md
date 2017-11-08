@@ -12,8 +12,8 @@ The first homework of machine learning class at BUAA, 2017 .
 
 ## 数据文件
 数据文件共分为训练集和测试集和测试结果样例：
-* 训练数据集（10类，共6万个数字）：以bmp格式存储在./TrainingSet,每个文件名的第一个数字代表它的真实分类（label）。
-* 测试数据集（10类，共1万个数字）：以bmp格式存储在./TestSet,每个文件名的第一个数字代表它的真实分类（label）。
+* 训练数据集（10类，共6万个数字）：以bmp格式存储在**TrainingSet.zip**每个文件名的第一个数字代表它的真实分类（label）。
+* 测试数据集（10类，共1万个数字）：以bmp格式存储在**TestSet.zip**每个文件名的第一个数字代表它的真实分类（label）。
 
 ![](/sample.png)
 
